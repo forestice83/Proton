@@ -1,5 +1,5 @@
 package base;
 
-public class Pagebase {
+public class PageBase {
 
 }
