@@ -1,3 +1,5 @@
+doc/
+test-output/
 .classpath
 .project
 .settings/
